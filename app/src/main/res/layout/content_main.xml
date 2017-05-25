@@ -165,7 +165,7 @@
                     android:layout_margin="10dp"
                     android:layout_gravity="center_horizontal"
                     android:background="#ff9900"
-                    android:text="@string/nwsfid"
+                    android:text="About Us"
                     android:textStyle="bold"
                     android:drawableTop="@drawable/nwsf"
                     android:drawablePadding="2dp"

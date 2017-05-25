@@ -5,6 +5,7 @@ import android.app.Activity;
 import android.app.Dialog;
 import android.content.Context;
 import android.content.DialogInterface;
+import android.content.Intent;
 import android.content.IntentSender;
 import android.content.pm.PackageManager;
 import android.graphics.Color;
@@ -228,7 +229,15 @@ public class MainActivity extends AppCompatActivity implements
                 .build();
 
 
+btnnewsf.setOnClickListener(new View.OnClickListener() {
+    @Override
+    public void onClick(View v) {
 
+        Intent intent = new Intent(MainActivity.this, AboutUs.class);
+        startActivity(intent);
+
+    }
+});
 
 
 
