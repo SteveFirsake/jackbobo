@@ -1,0 +1,155 @@
+<resources>
+    <string name="app_name">Bima</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="logini">Log in</string>
+    <string name="udoo">Enter Amount</string>
+    <string name="amt">Amount</string>
+    <string name="findos">Find Us</string>
+    <string name="vituuz">Packages</string>
+    <string name="trans">Transaction</string>
+    <string name="npva">Type in PIN to complete transaction</string>
+    <string name="npeva">Enter PIN</string>
+    <string name="transto">Recipient</string>
+    <string name="mlog">Member Login</string>
+    <string name="t4">Le Bank Started</string>
+    <string name="cur">Current Acc.</string>
+    <string name="doo">Savings Acc.</string>
+    <string name="curval">10000</string>
+    <string name="secva">Type in secret word</string>
+    <string name="secvap">Type in PIN</string>
+    <string name="savval">12000</string>
+    <string name="desti">Willy Wonker\'s Chocolate Factory</string>
+    <string name="desti2">Johnson\'s Stock Brokers</string>
+    <string name="endaw">Accept</string>
+    <string name="destiam">-2500</string>
+    <string name="destiam2">12500</string>
+    <string name="reggo">Register to Access</string>
+    <string name="stag">Branches, Agents, ATMs</string>
+    <string name="destare">12/10/2015 09:34 a.m.</string>
+    <string name="destare2">15/10/2015 05:22 p.m.</string>
+    <string name="fonoo">07********</string>
+    <string name="fonoot">Account/Phone Number</string>
+    <string name="tuwahi">Contact Us</string>
+    <string name="acsum">Account Summary Statement</string>
+    <string name="emailad">E-mail Address</string>
+    <string name="sendio">Accept</string>
+    <string name="comm">Send us a message</string>
+    <string name="messg">Type here</string>
+    <string name="picimgq">File Name</string>
+    <string name="mbaindi2">You have successfully registered</string>
+    <string name="mbaindi2m">You have successfully applied for a bank account</string>
+    <string name="mbaindi2a">Sorry transaction incomplete due to incorrect PIN</string>
+    <string name="mbaindi2p">Sorry password change denied due to incorrect password</string>
+    <string name="mbaindi2b">Sorry transaction incomplete due to insufficient funds in your account</string>
+    <string name="mbaindi2c">Transaction was successful</string>
+    <string name="mbaindi2ch">Password changed successfully</string>
+    <string name="sendi">Send</string>
+    <string name="regg">Register User</string>
+    <string name="mbaindi3">Please type in message first</string>
+    <string name="mbaindi3m">Please enter the correct detail</string>
+    <string name="enda">OK</string>
+    <string name="edito">Change Password</string>
+    <string name="nwsfid">News Feed</string>
+    <string name="firnema">First Name</string>
+    <string name="dobo">Date of Birth</string>
+    <string name="opeac">Next</string>
+    <string name="seciva">Enter Secret Word</string>
+    <string name="secivap">Enter PIN</string>
+    <string name="tctle">  IMPORTANT  INFORMATION  ABOUT  PROCEDURES  FOR  OPENING  A  NEW ACCOUNT</string>
+    <string name="tc">To  help  the  government  fight  the  funding  of  terrorism  and  money
+laundering  activities,  federal  law  requires  all  financial  institutions  to  obtain,  verify,
+and record information that identifies each person who opens an account.
+What  this  means  for  you:  When  you  open  an  account,  we  will  ask  for  your  name,
+address,  date  of  birth,  and  other  information  that  will  allow  us  to  identify  you.  We
+may also ask to see your driver\'s license or other identifying documents</string>
+    <string name="uemail">E-mail Address</string>
+    <string name="introd">Introducer Phone Number (0 if none)</string>
+    <string name="picimg">Select Passport Photo</string>
+    <string name="picimga">Photograph</string>
+    <string name="picid">Select Scanned ID Photo</string>
+    <string name="picida">ID Image</string>
+    <string name="detti">Select Date </string>
+    <string name="surnema">Last Name</string>
+    <string name="bankweb">Our Website</string>
+    <string name="ida">National ID / Passport ID</string>
+    <string name="fulnem">Full Name</string>
+    <string name="nuac">Open Account</string>
+    <string name="fulnema">Account Name</string>
+    <string name="fono">Phone Number</string>
+    <string name="fonoa">Account Number</string>
+    <string name="pasii">Password</string>
+    <string name="pasiio">Old Password</string>
+    <string name="regch">Save</string>
+    <string name="pasiin">New Password</string>
+    <string name="accao">Open Account</string>
+    <string name="ccpass">Edit Detail</string>
+    <string name="regista">Register</string>
+    <string name="accnoo">Account No.</string>
+    <string name="descc">Brief Description</string>
+    <string name="registao">Login</string>
+    <string name="countrii">Country: </string>
+    <string name="rback">Back</string>
+    <string name="nwsfdt">News Feed</string>
+    <string name="patna">Patnership with us to transform banking location services and analysis to a new level, ensuring better service delivery to our esteemed customers.</string>
+    <string name="charity">Charity event to fund the digging of 1000 water boreholes within the Northern Kenya regions. All are welcome.</string>
+    <string name="parte">Celebrating the achievement of our annual target for the year 2014/2015.</string>
+    <string name="mbaindino3">Please ensure your Internet connection is turned on.</string>
+    <string name="mbaindino3k">Please ensure your images are inserted and try again. </string>
+    <string name="mbaindino3v">Message sent..</string>
+    <string name="mbaindino31">Incorrect password. Please try again.</string>
+    <string name="mbaindino32">Incorrect secret word, please try again..</string>
+    <string name="mbaindino3p">Sorry there was a delay in your Internet connection. Please ensure your Internet connection is turned on and try again</string>
+    <string name="mbaindi">Please fill in all details as required</string>
+
+    <string-array name="nwsdetz">
+        <item>Select Event</item>
+        <item>10/7/2015</item>
+    </string-array>
+
+    <string-array name="acmonth">
+        <item>Select Month</item>
+        <item>JANUARY</item>
+        <item>FEBRUARY</item>
+        <item>MARCH</item>
+        <item>APRIL</item>
+        <item>MAY</item>
+        <item>JUNE</item>
+        <item>JULY</item>
+        <item>AUGUST</item>
+        <item>SEPTEMBER</item>
+        <item>OCTOBER</item>
+        <item>NOVEMBER</item>
+        <item>DECEMBER</item>
+    </string-array>
+
+    <string-array name="acyear">
+        <item>Select Year</item>
+        <item>2015</item>
+        <item>2016</item>
+        <item>2017</item>
+        <item>2018</item>
+        <item>2019</item>
+        <item>2020</item>
+        <item>2021</item>
+        <item>2022</item>
+        <item>2023</item>
+        <item>2024</item>
+        <item>2025</item>
+        <item>2026</item>
+    </string-array>
+
+    <string-array name="transq">
+        <item>Select Option</item>
+        <item>Bank Account</item>
+        <item>Airtime Top-Up</item>
+        <item>M-Pesa</item>
+        <item>ZUKU</item>
+        <item>DSTV</item>
+        <item>GOTV</item>
+        <item>Electricity Bill</item>
+        <item>Water Bill</item>
+        <item>Insurance</item>
+        <item>Fuel Charge</item>
+    </string-array>
+</resources>
